@@ -1,15 +1,17 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:5EEAD4,100:8B7CFC&height=220&section=header&text=Arpit%20Pandey&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" />
+<img width="100%" src="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/main/assets/header.svg" alt="Arpit Pandey - Software Developer | AI/ML Enthusiast" />
+
+<a href="https://www.linkedin.com/in/arpit-pandey45/"><img src="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/main/assets/linkedin.svg" alt="LinkedIn" height="44"/></a>
+<a href="mailto:arpitpandit09936@gmail.com"><img src="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/main/assets/email.svg" alt="Email" height="44"/></a>
+<a href="https://leetcode.com/u/arpitpandey_lc/"><img src="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/main/assets/leetcode.svg" alt="LeetCode" height="44"/></a>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B7CFC&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+NLP+%7C+Computer+Vision;Full-Stack+Development;Turning+Data+Into+Decisions;Welcome+to+my+profile+%F0%9F%91%8B" />
 
 <br/>
-
-<a href="https://www.linkedin.com/in/arpit-pandey45/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arpitpandit09936@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/arpitpandey_lc/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=arpitpandey454507&label=Profile%20Views&color=8b7cfc&style=for-the-badge" />
 
