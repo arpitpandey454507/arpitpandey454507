@@ -13,7 +13,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=arpitpandey454507&label=Profile%20Views&color=8b7cfc&style=for-the-badge" />
+
+<img src="https://api.visitorbadge.io/api/visitors?path=arpitpandey454507&label=Profile%20Views&countColor=%238b7cfc&style=for-the-badge" />
 
 </div>
 
