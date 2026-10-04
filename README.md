@@ -13,7 +13,6 @@
 
 <br/>
 
-
 <img src="https://api.visitorbadge.io/api/visitors?path=arpitpandey454507&label=Profile%20Views&countColor=%238b7cfc&style=for-the-badge" />
 
 </div>
@@ -200,6 +199,20 @@
 <img src="https://leetcard.jacoblin.cool/arpitpandey_lc?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 
 **170+ problems solved** — 100 Easy • 67 Medium • 9 Hard
+
+</div>
+
+### 📂 LeetCode Solutions
+
+<div align="center">
+
+<a href="https://github.com/arpitpandey454507/leetcode-solutions">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitpandey454507&repo=leetcode-solutions&theme=tokyonight&hide_border=true" alt="leetcode-solutions repository"/>
+</a>
+
+Every accepted solution is auto-synced to GitHub with **LeetHub** 🧩
+
+<a href="https://github.com/arpitpandey454507/leetcode-solutions"><img src="https://img.shields.io/badge/VIEW%20ALL%20SOLUTIONS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
