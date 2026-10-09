@@ -262,11 +262,11 @@ Every accepted solution is auto-synced to GitHub with **LeetHub** 🧩
 
 <br/><br/>
 
-<a href="https://github.com/Krishn-Nandan-Raj-009">
+<a href="https://github.com/arpitpandey454507">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Krishn-Nandan-Raj-009/Krishn-Nandan-Raj-009/output/snake-neon.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishn-Nandan-Raj-009/Krishn-Nandan-Raj-009/output/snake-light.svg" />
-    <img alt="Neon snake eating my contribution graph" src="https://raw.githubusercontent.com/Krishn-Nandan-Raj-009/Krishn-Nandan-Raj-009/output/snake-neon.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/output/snake-neon.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/output/snake-light.svg" />
+    <img alt="Neon snake eating my contribution graph" src="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/output/snake-neon.svg" width="100%" />
   </picture>
 </a>
 
