@@ -258,7 +258,7 @@ Every accepted solution is auto-synced to GitHub with **LeetHub** 🧩
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=520&lines=Eating+bugs+%26+shipping+commits;Full-Stack+%2B+AI%2FML+%2B+IoT;Contribution+graph+is+my+snack+bar" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=640&lines=Aspiring+AI%2FML+Engineer+%26+Software+Developer;Explainable+AI+%7C+Deep+Learning+%7C+NLP;92%25+Accuracy+on+Diabetic+Retinopathy+Screening;170%2B+LeetCode+Problems+Solved;Feeding+this+snake+with+daily+commits+%F0%9F%90%8D" alt="typing" />
 
 <br/><br/>
 
