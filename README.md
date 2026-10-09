@@ -256,19 +256,23 @@ Every accepted solution is auto-synced to GitHub with **LeetHub** 🧩
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/main/assets/snake-header.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=header" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=520&lines=Eating+bugs+%26+shipping+commits;Full-Stack+%2B+AI%2FML+%2B+IoT;Contribution+graph+is+my+snack+bar" alt="typing" />
 
-<img src="https://raw.githubusercontent.com/arpitpandey454507/arpitpandey454507/main/assets/snake-footer.svg" width="100%" alt="Keep committing"/>
+<br/><br/>
+
+<a href="https://github.com/Krishn-Nandan-Raj-009">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Krishn-Nandan-Raj-009/Krishn-Nandan-Raj-009/output/snake-neon.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishn-Nandan-Raj-009/Krishn-Nandan-Raj-009/output/snake-light.svg" />
+    <img alt="Neon snake eating my contribution graph" src="https://raw.githubusercontent.com/Krishn-Nandan-Raj-009/Krishn-Nandan-Raj-009/output/snake-neon.svg" width="100%" />
+  </picture>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🗺️ Learning Roadmap
 
